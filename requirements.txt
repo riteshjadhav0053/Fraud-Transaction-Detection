@@ -1,0 +1,12 @@
+python-dotenv
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+seaborn
+pyaml
+mlflow
+dill
+fastapi
+# -e .
