@@ -9,4 +9,5 @@ pyaml
 mlflow
 dill
 fastapi
+streamlit
 # -e .
